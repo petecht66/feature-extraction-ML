@@ -9,3 +9,5 @@ This specific project deals with feature extraction for posts on Twitter, which 
 Professor Yuan provided some starter folders and code for students to begin with. The file of interest within this repository is the 'Twitter.py' file within the 'tool' folder. Both the 'User' and 'Tweet' classes contain several functions that identify certain features about a Twitter/X account or a tweet/post.
 
 To modify this code and project, Jupyter Lab and Jupyter Notebook were accessed through Anaconda Navigator. After submission, this project was uploaded to GitHub.
+
+Professor Yuan's University of Delaware page: https://www.cis.udel.edu/people/faculty/xu-yuan/
